@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Recipes  More_menu-link menu-link-level-3</name>
+   <tag></tag>
+   <elementGuidId>21a9b757-1e6d-4157-84d1-552bc6869ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-1']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-link.menu-link-level-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;click to Discover Recipes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>33317e39-c190-4e50-9004-25baeccd7196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>3bd1f86e-e5fd-4a2d-8afa-c4a9f6143b2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>click to Discover Recipes</value>
+      <webElementGuid>d72e7b4f-e5b5-4632-bd7f-ea7245f1b9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link menu-link-level-3  </value>
+      <webElementGuid>db4a6b7b-53fc-4215-ba80-7a14c9b8bded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/recipes</value>
+      <webElementGuid>dada9d1f-d1a3-4ed6-ad97-027db3cb0f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discover Recipes</value>
+      <webElementGuid>8d1b3105-25ab-4c82-91be-2a68a381eaf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_00123d __variable_51684b __className_51684b __variable_4ddf73 __variable_7b4501 site-sobeys&quot;]/div[3]/div[1]/header[@class=&quot;sticky top-0 z-20 w-full left-0&quot;]/div[@class=&quot;top-header mb:pb-[12px] py-1 hidden lg:block bg-brandWhite border-b-[1px] border-grey350&quot;]/div[@class=&quot;mx-auto max-w-[1536px] px-6 2md:px-12 !max-w-[1536px]&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9 flex items-center&quot;]/div[1]/div[@class=&quot;block lg:flex navbar navbar-expand-lg component_mega_menu bg-brandWhite h-auto px-6 lg:p-0 max-w-[100%]  lg:max-w-full relative&quot;]/nav[@class=&quot;relative navigation-menu flex flex-row w-full pt-[7px] pb-[5px]&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;menu-item-4&quot;]/div[@class=&quot;menu-item menu-item-level-1 dropdown&quot;]/div[@class=&quot;menu-content menu-content-level-2&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;menu-item-1&quot;]/div[@class=&quot;menu-item menu-item-level-2&quot;]/a[@class=&quot;menu-link menu-link-level-3&quot;]</value>
+      <webElementGuid>e226aee2-79cf-494d-afe4-02accae45ddd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-1']/div/a</value>
+      <webElementGuid>2e317be6-b5f6-48ec-ad93-bef6b170c70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Discover Recipes')]</value>
+      <webElementGuid>6726abbc-2223-465f-937d-2140b693ac36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recipes &amp; More'])[1]/following::a[1]</value>
+      <webElementGuid>95771336-6bd1-4c7e-b8fd-b088c45f91b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Services'])[1]/following::a[1]</value>
+      <webElementGuid>3af8b5cf-4762-45e6-ae6f-6c5165563dd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Recipe Lists'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2e788f6-68af-4940-bc21-49910fa1c587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Article Collection'])[1]/preceding::a[2]</value>
+      <webElementGuid>d0f12a47-1532-46c4-8d10-aed0166d7689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discover Recipes']/parent::*</value>
+      <webElementGuid>98ec3bad-b856-4a16-9a39-a49264502fab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/recipes')]</value>
+      <webElementGuid>aabd6e77-fb15-463f-85aa-9bf2b3d972d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/a</value>
+      <webElementGuid>35c836ff-3296-4cd7-8bdd-bd93ad7a3dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/recipes' and (text() = 'Discover Recipes' or . = 'Discover Recipes')]</value>
+      <webElementGuid>5c12a585-0e1a-4ca4-8112-c43f945d9855</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

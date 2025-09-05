@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Skip to content_font-bold text-body un_a81c05</name>
+   <tag></tag>
+   <elementGuidId>6f21c8c8-ba64-43be-8045-e61945385bce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store_locator']/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Sobeys Torbay Road&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>812e459c-f64b-4f27-a1ab-6e927da9a9ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0788d25b-5654-4314-aef7-509a01000a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>204bf76f-c904-4f54-9fc1-227ca87e2d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-body underline text-brandBlack lg:text-brandWhite line-clamp-1 text-ellipsis overflow-hidden max-w-[220px] rounded</value>
+      <webElementGuid>3425f03a-9a3f-4427-a95a-94328f95d6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sobeys Torbay Road</value>
+      <webElementGuid>df0235a9-613a-463f-8ece-28df7015deff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sobeys Torbay Road</value>
+      <webElementGuid>8b9a519e-1560-405b-adbe-9ee40800ae8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store_locator&quot;)/div[@class=&quot;relative inline-block&quot;]/div[@class=&quot;text-left relative&quot;]/div[@class=&quot;cursor-pointer&quot;]/span[@class=&quot;font-bold text-body underline text-brandBlack lg:text-brandWhite line-clamp-1 text-ellipsis overflow-hidden max-w-[220px] rounded&quot;]</value>
+      <webElementGuid>bcf7008e-f8c5-431b-b087-f2a639a8348a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store_locator']/div/div/div/span[2]</value>
+      <webElementGuid>88671d70-4358-4a36-b012-b3b885d62eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::span[2]</value>
+      <webElementGuid>41fb8e08-e53e-40cc-bb62-2420f575668a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open today, 7:00 AM - 10:00 PM'])[1]/preceding::span[1]</value>
+      <webElementGuid>95b82c78-e64e-4ead-93c6-09420435815a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Recipes'])[1]/preceding::span[4]</value>
+      <webElementGuid>78edde70-2c67-4e83-99cc-889b589416a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sobeys Torbay Road']/parent::*</value>
+      <webElementGuid>83f59813-8f76-4668-8a54-446c757cc134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>d8234642-7744-4a5f-b322-86b12cc50d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sobeys Torbay Road' or . = 'Sobeys Torbay Road')]</value>
+      <webElementGuid>8a14b295-1cf9-4e76-b618-56f11b72f864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closed now'])[1]/preceding::span[1]</value>
+      <webElementGuid>c6777730-b63d-47a6-8aaa-25879270ccc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Recipes'])[1]/preceding::span[3]</value>
+      <webElementGuid>f07f97fb-420a-414a-b62c-46c93578517f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

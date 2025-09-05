@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(42)_inline-block</name>
+   <tag></tag>
+   <elementGuidId>7fa51f99-3d90-4010-b299-0fc48fadc7ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Search_products']/button[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;recipes-tab-button&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0d69781a-007c-4b7e-81a2-70d70d0f69f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block</value>
+      <webElementGuid>703bc879-242a-4d81-9872-684e1fb6858d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recipes</value>
+      <webElementGuid>3e490246-8ab8-4790-bf65-d0c4bca8fb04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Search_products&quot;)/button[@class=&quot;w-1/3 xs:w-auto&quot;]/div[@class=&quot;aria-selected:bg-brandSecondary aria-selected:relative aria-selected:rounded-t-lg aria-selected:text-brandWhite bg-transparent py-[14px] px-[12px] border-b-transparent border-b-[2px] max-w-[unset]
+                              text-body md:min-w-[145px] text-brandBlack text-center xs:min-w-[144px] min-w-[90px] min-w-auto aria-selected:after:content-[''] aria-selected:after:w-full aria-selected:after:h-[3px] aria-selected:after:bg-brandSecondary 
+                              aria-selected:after:absolute aria-selected:after:bottom-[-3px] aria-selected:after:left-0 aria-selected:after:right-0
+                              flex items-center h-full justify-center flex&quot;]/span[@class=&quot;inline-block&quot;]</value>
+      <webElementGuid>561bd02d-f1cd-44c2-8fd8-77a0abe5703f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Search_products']/button[2]/div/span</value>
+      <webElementGuid>3729e226-c26c-4eb0-908a-168497bc1f64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(42)'])[1]/following::span[1]</value>
+      <webElementGuid>3a220df3-3b40-438d-aea9-9bfed86e5059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Products'])[2]/following::span[2]</value>
+      <webElementGuid>7f7537c6-edf7-42d7-a0e2-23de78245ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(53)'])[1]/preceding::span[1]</value>
+      <webElementGuid>8cedb5fb-b386-4345-8c5a-eb3db6189bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Articles'])[2]/preceding::span[2]</value>
+      <webElementGuid>d5882d54-b6aa-4782-8abb-781f16eb14d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div/span</value>
+      <webElementGuid>7ecf5924-4fdb-4d61-b5d6-748e7d6e1461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Recipes' or . = 'Recipes')]</value>
+      <webElementGuid>fed82d43-7fc1-4e88-b52b-9d58b896af04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

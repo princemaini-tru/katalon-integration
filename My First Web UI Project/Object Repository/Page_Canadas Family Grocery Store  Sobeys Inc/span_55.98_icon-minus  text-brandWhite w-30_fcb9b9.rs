@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_55.98_icon-minus  text-brandWhite w-30_fcb9b9</name>
+   <tag></tag>
+   <elementGuidId>29da8e41-dabc-4c68-9e11-90949b41f350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add_to_cart_product']/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> internal:label=&quot;Decrement quantity&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1c07b8ca-5cdb-477d-82bc-11235d6e853e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-minus  text-brandWhite w-[30px] h-[30px] rounded-full flex items-center justify-center</value>
+      <webElementGuid>518ee634-47f9-4fed-a97f-3a5fdd0f1682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>60379e15-32ca-4ea9-8630-df8e2a4d4756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_701620 __variable_51684b __className_51684b __variable_4ddf73 __variable_7b4501 site-sobeys noScroll&quot;]/div[3]/div[1]/header[@class=&quot;sticky top-0 z-20 w-full left-0&quot;]/div[@class=&quot;top-header mb:pb-[12px] py-1 hidden lg:block bg-brandWhite border-b-[1px] border-grey350&quot;]/div[@class=&quot;mx-auto max-w-[1536px] px-6 2md:px-12 !max-w-[1536px]&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3 gap-2 flex justify-end&quot;]/div[@class=&quot;header-nav-user gap-[4px] flex items-center ml-auto&quot;]/div[@class=&quot;fixed bg-brandWhite shadow-lg transition-transform duration-300 ease-in-out outline-none top-0 bottom-0 right-0 transform translate-x-0 translate-y-0 w-full md:w-[512px] z-[999999]&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;h-screen&quot;]/div[@class=&quot;bg-grey100 h-screen pt-[145px] pb-[70px] overflow-y-scroll z-1&quot;]/div[@class=&quot;bg-brandWhite&quot;]/div[2]/div[@class=&quot;border-b-[2px] border-neutral200 px-6&quot;]/div[@class=&quot;flex items-center justify-end pb-3&quot;]/div[@class=&quot;w-1/3 flex justify-end&quot;]/div[@id=&quot;add_to_cart_product&quot;]/div[@class=&quot;fullView false false justify-center p-0 flex items-center w-[40px] h-[40px] [&amp;.addListBtn]:w-[130px] [&amp;.fullView]:w-[130px] [&amp;.fullViewBtn]:w-[130px] overflow-hidden hover:w-[130px] focus-within:w-[130px] focus-within:outline focus-within:outline-2 focus-within:outline-brandSecondary transition-all duration-700 bg-brandSecondary rounded-full&quot;]/button[@class=&quot;font-normal transition overflow-hidden z-[1] border-[1px] text-center cursor-pointer before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 bg-brandSecondary before:bg-white text-white border-brandSecondary hover:border-brandSecondary focus:border-brandSecondary hover:bg-brandSecondary focus:bg-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base px-4 py-2 min-w-[34px] h-[34px] flex items-center justify-center relative [&amp;:before]:hidden rounded-full max-w-[34px] max-h-[34px]&quot;]/span[@class=&quot;icon-minus  text-brandWhite w-[30px] h-[30px] rounded-full flex items-center justify-center&quot;]</value>
+      <webElementGuid>ee8c5c07-43a6-475c-b3c7-82bd1fc8445a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add_to_cart_product']/div/button/span</value>
+      <webElementGuid>ee244976-e398-4a60-957f-2be9da52951c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>73dae85e-2bc3-4ba3-aed8-809af5ec0b51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

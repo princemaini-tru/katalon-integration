@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pepsi Soft Drink 355 ml_font-normal _e4e9bf</name>
+   <tag></tag>
+   <elementGuidId>adc8ed40-a35e-4eba-94fd-e39b31031dcc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[56]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:has-text=&quot;Add to favouriteAdd To List$27.99OmbrelleOmbrelle Face Antidyr SPF60 Sunscreen .&quot;i >> internal:label=&quot;Next Button&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>95baff4b-c525-48fa-bcf9-d243c76635ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal transition relative overflow-hidden z-[1] border-[1px] text-center before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 before:bg-white hover:border-brandSecondary focus:border-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base px-4 py-2 embla__button embla__button--next !border rounded-full border-brandSecondary bg-transparent [&amp;:before]:hidden hover:bg-transparent focus:bg-transparent cursor-pointer w-[40px] h-[40px] flex items-center justify-center text-[#333] [&amp;[disabled]]:cursor-not-allowed [&amp;[disabled]]:border-[#dcdcdc]</value>
+      <webElementGuid>c642b131-b775-4ca0-9163-b8b8837e57c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>76ade92b-2830-4181-9ea9-731643b48764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next Button</value>
+      <webElementGuid>1846ce98-1389-452f-bc33-cb1b2fec2016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e44369f7-963f-45d1-b999-216ecc31ab3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[@class=&quot;mx-auto px-6 2md:px-12 max-w-[1536px] !pl-6 !pr-0 2md:!pl-12 lg:!px-12 overflow-hidden min-h-[280px]&quot;]/div[@class=&quot;mb-[0] min-h-[270px]&quot;]/div[@class=&quot;flex flex-wrap -mx-2 min-h-[250px]&quot;]/div[@class=&quot;w-full sm:w-full lg:w-9/12 xl:w-10/12 px-2&quot;]/div[1]/section[@class=&quot;embla__wrapper mx-auto w-full max-w-full productlistSlider AllProducts&quot;]/div[@class=&quot;embla__row&quot;]/div[@class=&quot;embla__controls !flex  !justify-center !mt-6&quot;]/div[@class=&quot;embla__buttons !flex&quot;]/button[@class=&quot;font-normal transition relative overflow-hidden z-[1] border-[1px] text-center before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 before:bg-white hover:border-brandSecondary focus:border-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base px-4 py-2 embla__button embla__button--next !border rounded-full border-brandSecondary bg-transparent [&amp;:before]:hidden hover:bg-transparent focus:bg-transparent cursor-pointer w-[40px] h-[40px] flex items-center justify-center text-[#333] [&amp;[disabled]]:cursor-not-allowed [&amp;[disabled]]:border-[#dcdcdc]&quot;]</value>
+      <webElementGuid>7cbfcaf6-d067-4654-991c-3496541566f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[56]</value>
+      <webElementGuid>adb83113-cfac-48e8-889d-f66dcb495210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='start-of-content']/div[4]/div/div/div/div/section/div/div[2]/div/button[2]</value>
+      <webElementGuid>4e9b94f3-4830-4408-9ac8-2fdfaa3a2811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pepsi Soft Drink 355 ml'])[1]/following::button[6]</value>
+      <webElementGuid>ba8c2f86-bebd-46bc-98d2-3f4d501ff428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1.29'])[2]/following::button[6]</value>
+      <webElementGuid>0a08da4a-23be-435a-9947-05b00c7fcc87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scene+ Offers Just For You'])[1]/preceding::button[1]</value>
+      <webElementGuid>12678e2a-9640-44c9-a64c-e28079297273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[2]/preceding::button[1]</value>
+      <webElementGuid>bdaf6ce4-53a7-45e8-837e-537c2914ef6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>709cfa5e-572a-4215-9837-aa4630771d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@alt = 'next' and @type = 'button']</value>
+      <webElementGuid>35bdb44e-e99d-455a-ac77-69cf451019c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

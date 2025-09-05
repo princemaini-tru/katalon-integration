@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Subsitute product button disable no product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37c409ec-d620-4260-a4b8-7339d96fcb50</testCaseGuid>
+</TestCaseEntity>

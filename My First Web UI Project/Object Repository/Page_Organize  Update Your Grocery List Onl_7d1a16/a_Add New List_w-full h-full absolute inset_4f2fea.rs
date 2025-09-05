@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add New List_w-full h-full absolute inset_4f2fea</name>
+   <tag></tag>
+   <elementGuidId>d9059a7f-c38b-4dcb-ac3b-a57c5e1c9615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='start-of-content']/div/div/div/div/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Click here to go to Testing list detail page&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6331783d-af82-4b24-a1a4-665b58f468b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full absolute inset-0 z-[1] [&amp;>div]:w-full [&amp;>div]:h-full [&amp;>div>div:not(#tooltip)]:w-full [&amp;>div>div:not(#tooltip)]:h-full</value>
+      <webElementGuid>a52ec789-16d4-42db-bcb7-e8297c1e585c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>df884c80-efc2-4529-b448-29274cbf4c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Click here to go to Testing list detail page</value>
+      <webElementGuid>114d6f5c-7577-4a19-a21c-c887505e7a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manage-list/testing_1754983230127</value>
+      <webElementGuid>7c55390a-ef67-4833-bb6b-9d7c9b23e200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[1]/div[@class=&quot;max-w-[1424px] mx-auto px-6 2md:px-12 !max-w-[1536px]&quot;]/div[@class=&quot;row my-6&quot;]/div[@class=&quot;col-12 col-xl-12&quot;]/div[@class=&quot;min-h-[510px]&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-6 col-lg-3 mb-6&quot;]/div[@class=&quot;bg-brandWhite rounded-lg shadow-[0_0_4px_0_rgba(0,0,0,0.25)] !rounded-large overflow-visible h-full relative&quot;]/a[@class=&quot;w-full h-full absolute inset-0 z-[1] [&amp;>div]:w-full [&amp;>div]:h-full [&amp;>div>div:not(#tooltip)]:w-full [&amp;>div>div:not(#tooltip)]:h-full&quot;]</value>
+      <webElementGuid>85bcef78-6966-46bd-ad6b-b15bad2fc983</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='start-of-content']/div/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>2d044375-8f1c-4924-af66-a2c9238a04b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/manage-list/testing_1754983230127')]</value>
+      <webElementGuid>79e9893b-d551-4d3e-9ece-0b8481f06f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>8b6fc9b4-a50f-4c96-932a-e388ce246fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/manage-list/testing_1754983230127']</value>
+      <webElementGuid>b707aea5-8bae-441f-95ec-abdb61094341</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

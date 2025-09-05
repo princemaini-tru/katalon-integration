@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Article filter on search result page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44d0974c-cbc8-41ee-9d7a-5c990145d3d2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add meal plan (Guest user)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>813d62ae-7681-41ad-ae9c-856cfd0df501</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Visit voila.ca_border-solid border-1p_77ef83_2</name>
+   <tag></tag>
+   <elementGuidId>e45b3352-20f5-4cf6-a7f6-c48d582c69ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Qu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search by city or postal code&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>036856e3-b543-449c-bc16-691927c4e394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-solid border-[1px] p-4 w-full border-grey350 rounded py-0 h-10 px-4 pr-9 placeholder-grey900 text-brandBlack</value>
+      <webElementGuid>d4306ae3-1c5b-4f8c-9dd1-44c497e13262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by city or postal code</value>
+      <webElementGuid>af7046e9-7546-4916-bfc4-8be97d113f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>5f3e9566-90b9-44f7-9204-63fdf3897322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Qu</value>
+      <webElementGuid>d0ef6c1a-b5c7-4d26-8f68-95acf926326c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store_locator&quot;)/div[@class=&quot;relative inline-block&quot;]/div[@class=&quot;left-0 min-w-[279px] bg-brandWhite shadow-lg z-[999] transform transition-all duration-300 ease-in-out opacity-100 scale-100 !pr-0 mt-0 p-0 sm:w-[480px] h-svh sm:h-auto sm:absolute fixed w-full rounded-none sm:-left-[30px] lg:-left-6 top-0 sm:top-[67px] md:top-[70px] lg:top-[69px]&quot;]/div[2]/div[@class=&quot;custom-scroll md:max-h-[75svh] max-h-[87svh] !pr-0&quot;]/div[@class=&quot;px-6&quot;]/div[@class=&quot;mt-3 mb-6 relative&quot;]/div[@class=&quot;relative mb-2&quot;]/input[@class=&quot;border-solid border-[1px] p-4 w-full border-grey350 rounded py-0 h-10 px-4 pr-9 placeholder-grey900 text-brandBlack&quot;]</value>
+      <webElementGuid>5540e699-e341-40c9-aa61-170d97f79491</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Qu']</value>
+      <webElementGuid>6ea8329c-8ff5-402d-87a3-da8625712f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store_locator']/div/div[2]/div[2]/div/div/div[2]/div/input</value>
+      <webElementGuid>66f943f5-7cd9-426e-b159-b8de27b67b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>4cec5565-e654-4ade-91ed-fc345635c414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search by city or postal code' and @type = 'text']</value>
+      <webElementGuid>d0b205d3-f19f-4f8d-9375-ad6e21e7d61b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

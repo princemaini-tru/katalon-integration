@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Past Digital Offers_tab-2</name>
+   <tag></tag>
+   <elementGuidId>55711d04-dbf0-4948-a96a-bda7460e8f96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='tab-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=tab[name=&quot;More Offers&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ec385fa5-5315-4311-beba-e4560aceba91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>
+        w-full py-4 px-4 text-left font-poppinsRegular border-b border-b-lightgray2 text-base
+        bg-transparent focus-visible:outline-brandSecondary
+     md:w-auto min-h-[64px] xs:min-h-[70px] md:min-h-[10px] md:!px-4 !py-[14px] inline-flex items-center justify-center border-none !text-xs 3xs:!text-sm xs:!text-body !px-2 rounded-t-[8px] text-center</value>
+      <webElementGuid>41d54e60-e0fd-411a-82cb-0eded886e3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>4d291642-78f7-423f-b15b-2d55ddc918a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>25a0012d-3eac-4caf-8679-96e4c8f4d8ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>tabpanel-2</value>
+      <webElementGuid>c1444120-366e-4420-a3d2-f780758ce224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tab-2</value>
+      <webElementGuid>e8548cbe-c9c2-41c9-aa43-c8c9b0f45a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More Offers</value>
+      <webElementGuid>ecf38edf-d3c9-4837-bf3c-9767f72da599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-2&quot;)</value>
+      <webElementGuid>e885dade-a7d3-47c1-93e8-d951cd82f6ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='tab-2']</value>
+      <webElementGuid>a46332bf-cf81-4a76-b595-d766ba992967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='explore_offers-2']/button</value>
+      <webElementGuid>02e00c5c-5016-46ce-98a0-53ab06a27849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Past Digital Offers'])[1]/following::button[1]</value>
+      <webElementGuid>3b064e02-3db8-4eea-89ad-55ad9613aa22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loaded Digital Offers'])[1]/following::button[2]</value>
+      <webElementGuid>54059fcf-daee-42ad-94dc-3f1ef65286de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please log in to view and load your personalized Scene+ offers.'])[1]/preceding::button[1]</value>
+      <webElementGuid>88137d53-7cf9-4848-9f69-7f2f30551965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>19e0674f-25b7-4146-ac8b-13f1ccabf573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Offers']/parent::*</value>
+      <webElementGuid>8b95328c-f7ce-4674-ac68-d3a965e5d109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>57b47ba4-2b68-4b24-8ee9-a538a00c6dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'tab-2' and (text() = 'More Offers' or . = 'More Offers')]</value>
+      <webElementGuid>18324105-b98d-42d4-877e-9d79a053e554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

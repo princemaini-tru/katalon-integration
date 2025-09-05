@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>three dot listing</name>
+   <tag></tag>
+   <elementGuidId>4bc7e888-13d9-41f9-8367-4bf5c426d6eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='start-of-content']/div/div/div/div/div[2]/div/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>079cbc42-a11e-4121-89c0-e121d847e8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-dots text-brandSecondary text-[26px]</value>
+      <webElementGuid>dc521673-aba0-4825-abb7-6083be57634f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[1]/div[@class=&quot;max-w-[1424px] mx-auto px-6 2md:px-12 !max-w-[1536px]&quot;]/div[@class=&quot;row my-6&quot;]/div[@class=&quot;col-12 col-xl-12&quot;]/div[@class=&quot;min-h-[510px]&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xs-6 col-lg-3 mb-6&quot;]/div[@class=&quot;bg-brandWhite rounded-lg shadow-[0_0_4px_0_rgba(0,0,0,0.25)] !rounded-large overflow-visible h-full relative&quot;]/div[@class=&quot;p-4 border-b flex items-center justify-center !pb-0 !border-[0px] !pt-2 !px-4 relative h-[141px] sm:h-[254px] lg:h-[238px]&quot;]/div[@class=&quot;relative inline-block !absolute !right-[16px] md:!right-[20px] !top-[16px] !text-center z-[2]&quot;]/button[@class=&quot;outline-none !p-0 bg-brandWhite w-10 h-10 flex items-center justify-center rounded-full border border-brandSecondary [&amp;_span]:relative [&amp;_span]:top-auto [&amp;_span]:right-auto [&amp;_span]:!-translate-y-0 [&amp;_span]:w-10 [&amp;_span]:h-10 [&amp;_span]:text-center&quot;]/span[@class=&quot;icon-dots text-brandSecondary text-[26px]&quot;]</value>
+      <webElementGuid>95971f41-bc5c-4624-828b-b53feaeaf21c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='start-of-content']/div/div/div/div/div[2]/div/div/div/div/div[2]/button/span</value>
+      <webElementGuid>836c2712-871f-4785-9860-590ce90a3750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>e48194da-58e1-49a4-bfe5-0cfebe686ad2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

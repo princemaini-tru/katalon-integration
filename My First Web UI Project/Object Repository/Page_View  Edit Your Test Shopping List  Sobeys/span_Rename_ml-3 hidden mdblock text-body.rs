@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rename_ml-3 hidden mdblock text-body</name>
+   <tag></tag>
+   <elementGuidId>7a256f45-be41-4e06-a410-de775b11d832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='start-of-content']/div/div/div/div[2]/div/div/div/button[3]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Click here to Delete&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac818e32-79f9-46a9-9b3f-0bbaf2368cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-3 hidden md:block text-body</value>
+      <webElementGuid>6d4b49cc-2912-4783-8388-8e4f334f1b74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>7da926e3-4781-4cbf-872c-675386dcef52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[1]/div[@class=&quot;max-w-[1424px] mx-auto lg:pb-8 pb-[26px] px-6 2md:px-12 !max-w-[1536px] shoppingListPg&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;flex-1 xl:!max-w-[1018px] lg:mr-6 px-3&quot;]/div[@class=&quot;bg-brandWhite&quot;]/div[@class=&quot;pb-4 border-b-2 border-grey250&quot;]/div[@class=&quot;flex gap-2&quot;]/button[@class=&quot;inline-flex items-center justify-center transition relative overflow-hidden z-[1] text-center cursor-pointer before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 bg-white before:bg-brandSecondary hover:border-brandSecondary focus:border-brandSecondary hover:bg-white focus:bg-brandSecondary hover:text-white focus:text-white group text-brandBlack font-normal w-[40px] md:w-auto h-[40px] border-grey350 border-solid border-[1px] py-[10px] px-4 rounded-[48px]&quot;]/span[@class=&quot;ml-3 hidden md:block text-body&quot;]</value>
+      <webElementGuid>4f298032-9765-4db9-9524-46dfd1f963b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='start-of-content']/div/div/div/div[2]/div/div/div/button[3]/span[2]</value>
+      <webElementGuid>46f9e6c8-db86-49f9-812e-4c73c0d2d168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rename'])[1]/following::span[2]</value>
+      <webElementGuid>f4daeaa9-4dbe-4b91-bb12-f955fc326d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::span[4]</value>
+      <webElementGuid>c48ec585-8110-4311-aaf5-d35b6a240611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Substitute Products'])[1]/preceding::span[2]</value>
+      <webElementGuid>703f87ac-f714-4b65-9d33-a5d3d643486e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom List Items'])[1]/preceding::span[3]</value>
+      <webElementGuid>1ae22eef-7b01-4012-9019-cc124700f9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>2d1a9281-5e49-4e1e-b0f9-5e8733cd22ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span[2]</value>
+      <webElementGuid>e85b1b4c-f797-440e-9c29-68834cc958e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>fd0ba5fe-d8a6-4502-8d66-8b189460104c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

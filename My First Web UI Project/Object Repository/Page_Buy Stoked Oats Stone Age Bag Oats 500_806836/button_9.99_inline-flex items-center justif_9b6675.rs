@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_9.99_inline-flex items-center justif_9b6675</name>
+   <tag></tag>
+   <elementGuidId>8044eff4-c2af-428b-ab5c-2589ced27796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#add_to_cart_product > .inline-flex</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>41605c05-8172-4a32-8514-a7b10264aa22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center relative z-[1] border-[1px] text-center cursor-pointer before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 bg-brandSecondary before:bg-white text-white border-brandSecondary hover:border-brandSecondary focus:border-brandSecondary hover:bg-brandSecondary focus:bg-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base px-4 py-2 rounded-full md:w-[220px] w-full h-[40px] font-normal [&amp;:before]:hidden !text-white min-w-[110px] 3xs:min-w-[160px] xs:min-w-[228px] md:min-w-[220px] lgs:min-w-[130px] 2lg:min-w-[220px] 2lg:max-w-[220px] transition-all ease-in-out duration-700 max-2xs:text-body overflow-visible</value>
+      <webElementGuid>375946b0-c80e-4ed9-b851-33b8e10143b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f5e30cbd-5f35-49ac-89ba-80e7730b9be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add to list</value>
+      <webElementGuid>14528027-a68a-4e96-9586-94bf857ce833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add To List</value>
+      <webElementGuid>077cf6a0-8aea-42d3-a2a1-b45b50f90bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[1]/div[@class=&quot;max-w-[1424px] px-6 2md:px-12 mx-auto xl:px-10 5xl:px-3 !max-w-[1464px] pb-6&quot;]/div[@class=&quot;productListing&quot;]/div[@class=&quot;row gap-6 lgs:pt-6 lg:pb-6&quot;]/div[@class=&quot;flex-1 2md:px-4 px-3 lg:mt-0 mt-6 relative  flex flex-col&quot;]/div[@class=&quot;flex flex-wrap sm:!order-7 order-1 mb-10 sm:mb-0&quot;]/div[@class=&quot;flex justify-between md:justify-normal gap-2 max-4xs:gap-1 w-full&quot;]/div[@class=&quot;flex gap-2 max-4xs:gap-1 w-[calc(100%-40px)] md:w-auto&quot;]/div[@id=&quot;add_to_cart_product&quot;]/button[@class=&quot;inline-flex items-center justify-center relative z-[1] border-[1px] text-center cursor-pointer before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 bg-brandSecondary before:bg-white text-white border-brandSecondary hover:border-brandSecondary focus:border-brandSecondary hover:bg-brandSecondary focus:bg-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base px-4 py-2 rounded-full md:w-[220px] w-full h-[40px] font-normal [&amp;:before]:hidden !text-white min-w-[110px] 3xs:min-w-[160px] xs:min-w-[228px] md:min-w-[220px] lgs:min-w-[130px] 2lg:min-w-[220px] 2lg:max-w-[220px] transition-all ease-in-out duration-700 max-2xs:text-body overflow-visible&quot;]</value>
+      <webElementGuid>cd905d31-3810-422e-ae29-177f6a2f5916</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>6d0ba306-fd76-4cfc-b92f-9a6335afcdfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add_to_cart_product']/button</value>
+      <webElementGuid>1ee2eb0c-d173-45db-a3cd-4f6beacf6fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[2]/following::button[1]</value>
+      <webElementGuid>cc3702e7-0634-428c-9b00-0675b7101fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stoked Oats Stone Age Bag Oats 500 g'])[3]/following::button[1]</value>
+      <webElementGuid>d52b760b-6a79-4373-b06b-228310cd2221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Favourite'])[1]/preceding::button[1]</value>
+      <webElementGuid>c19f1cd0-158f-45e8-8ef7-5a016062f8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accordion Section'])[1]/preceding::button[2]</value>
+      <webElementGuid>022595ee-6f5e-4e4d-a9f5-1961e667b026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add To List']/parent::*</value>
+      <webElementGuid>c0714c1e-2616-4687-8cf6-9cfb7501cd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button</value>
+      <webElementGuid>135aba71-31fe-49bc-9999-0edb8e0bc5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add To List' or . = 'Add To List')]</value>
+      <webElementGuid>ea69de97-7000-4410-a126-1487d045618d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

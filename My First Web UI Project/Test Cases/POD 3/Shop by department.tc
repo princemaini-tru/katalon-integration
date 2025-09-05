@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Shop by department</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bf8d844-9f01-4ca2-9c70-6e02c80c8bea</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sort_line-clamp-1_1</name>
+   <tag></tag>
+   <elementGuidId>00f8ab74-b0db-4d66-9365-a6c5c9cef17e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='recipe_tour_1']/div/button/span)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox[name=&quot;Sort homepage results&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f113d1fc-1b76-4236-8186-bde8490e2b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-1</value>
+      <webElementGuid>4bc28883-99ab-4294-9297-47f2cc04ec47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alphabetical: Z-A</value>
+      <webElementGuid>2aa5245e-58bd-4fce-934c-b6d92219fdb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[@class=&quot;h-full min-h-[400px] visible&quot;]/div[2]/div[@class=&quot;mx-auto 2md:px-12 max-w-[1536px] w-full px-0 lg:px-12&quot;]/div[@class=&quot;row  !mx-0&quot;]/div[@class=&quot;col-12 !px-0&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;aria-selected:block hidden [&amp;_.main-wrapper]:!px-0 [&amp;_.main-wrapper] [&amp;_.main-wrapper_.filter-mobile]:!bg-grey100 [&amp;_.main-wrapper_.filter-mobile]:lg:before:content-none [&amp;_.main-wrapper_.filter-mobile]:lg:before:content-none [&amp;_.main-wrapper_.filter-mobile]:before:content-[''] [&amp;_.main-wrapper_.filter-mobile]:before:absolute [&amp;_.main-wrapper_.filter-mobile]:before:left-[-64px] [&amp;_.main-wrapper_.filter-mobile]:before:top-0 [&amp;_.main-wrapper_.filter-mobile]:before:w-[24%] [&amp;_.main-wrapper_.filter-mobile]:before:h-full [&amp;_.main-wrapper_.filter-mobile]:relative [&amp;_.main-wrapper_.filter-mobile]:before:bg-grey100 [&amp;_.main-wrapper_.filter-mobile]:after:content-[''] [&amp;_.main-wrapper_.filter-mobile]:after:absolute [&amp;_.main-wrapper_.filter-mobile]:2md:after:right-[-48px] [&amp;_.main-wrapper_.filter-mobile]:after:right-0 [&amp;_.main-wrapper_.productMain_.filter-mobile]:after:right-[-24px] [&amp;_.main-wrapper_.filter-mobile]:after:top-0 [&amp;_.main-wrapper_.filter-mobile]:2md:after:w-[calc(100%-48px)] [&amp;_.main-wrapper_.filter-mobile]:after:w-[calc(100%-24px)] [&amp;_.main-wrapper_.productMain_.filter-mobile]:2md:after:right-[-48px] [&amp;_.main-wrapper_.productMain_.filter-mobile]:px-0 [&amp;_.main-wrapper_.productMain_.filter-mobile>div]:md:w-auto [&amp;_.main-wrapper_.filter-mobile]:after:h-full [&amp;_.main-wrapper_.filter-mobile]:relative [&amp;_.main-wrapper_.filter-mobile]:after:bg-grey100 [&amp;_.main-wrapper_.filter-mobile]:bg-grey350[&amp;_.main-wrapper_.filter-mobile]:2md:bg-brandWhite [&amp;_.main-wrapper_.filter-mobile]:py-[16px] [&amp;_.main-wrapper_.filter-mobile]:px-6 [&amp;_.main-wrapper_.filter-mobile]:2md:px-0 [&amp;_.main-wrapper_.recipeMain]:px-6 [&amp;_.main-wrapper_.recipeMain]:2md:px-0 [&amp;_.main-wrapper_.row]:!m-0 [&amp;_.main-wrapper_.col-12]:!px-0 [&amp;_.productWrapper]:!px-0 [&amp;_.main-wrapper_.productMain]:pt-0 [&amp;_.main-wrapper_.productMain]:2md:px-0 [&amp;_.main-wrapper_.productMain]:px-6 [&amp;_.main-wrapper_.articleMain]:px-6 [&amp;_.main-wrapper_.articleMain]:2md:px-0  [&amp;_.main-wrapper_.grid-outer]:pt-0 [&amp;_.main-wrapper_.products-p]:px-6 [&amp;_.main-wrapper_.products-p]:2md:px-0 [&amp;_.main-wrapper_.products-p]:m-0&quot;]/div[1]/div[@class=&quot;mx-auto px-6 2md:px-12 max-w-[1536px] main-wrapper lg:mt-6&quot;]/div[@class=&quot;flex lg:gap-[24px]&quot;]/aside[@class=&quot;lg:w-[250px] xl:w-[220px] mb-[38px] sideBar&quot;]/div[@class=&quot;flex flex-col gap-4 lg:w-[250px] xl:w-[220px]&quot;]/div[@class=&quot;flex flex-col gap-4&quot;]/div[@id=&quot;recipe_tour_1&quot;]/div[@class=&quot;relative [&amp;>button]:text-grey900 [&amp;>button]:rounded-[4px] [&amp;>button]:pl-4 [&amp;>button]:h-[56px] [&amp;>button]:py-3 [&amp;>button]:pr-12 [&amp;>button>span]:text-base [&amp;>ul]:!shadow-[0_4px_30px_0px_rgba(0,0,0,0.2)]&quot;]/button[@class=&quot;border-[#d6d6d6]  w-full text-left border rounded-[4px] pt-[15px] pb-[12px] pl-[20px] pr-[40px] text-brandBlack text-[14px] leading-normal relative&quot;]/span[@class=&quot;line-clamp-1&quot;]</value>
+      <webElementGuid>93e4e421-4ca7-4a79-8503-435ae796467d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='recipe_tour_1']/div/button/span)[3]</value>
+      <webElementGuid>628329e2-f8e7-4222-9f62-df6b6b340130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[2]/following::span[1]</value>
+      <webElementGuid>f4e8fd57-1a36-45b4-a0d9-c70b916085bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Main Heading'])[2]/following::span[1]</value>
+      <webElementGuid>dc40b114-faad-4950-926b-32d94d0e6e2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alphabetical: A-Z'])[2]/preceding::span[3]</value>
+      <webElementGuid>041a4622-b5b7-4a9d-8b2a-a3328185ff1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alphabetical: Z-A'])[3]/preceding::span[3]</value>
+      <webElementGuid>15218ce0-f507-47b3-93fd-d32516476df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/aside/div/div/div[2]/div/button/span</value>
+      <webElementGuid>27beab71-f5ef-4f31-986f-487a3f9e6f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alphabetical: Z-A' or . = 'Alphabetical: Z-A')]</value>
+      <webElementGuid>d67ad6a5-3ef0-4a1a-b41a-a9ec5e989a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

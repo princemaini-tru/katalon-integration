@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sort_line-clamp-1_3</name>
+   <tag></tag>
+   <elementGuidId>201ddb6f-0303-4f07-bcd7-e5bc1800d6dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='recipe_tour_1']/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox[name=&quot;Sort products&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d040eee6-4d7d-4fa1-b356-ff175a46b9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-1</value>
+      <webElementGuid>752b0bda-4971-440e-a9ab-b2f815b69d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: Low to High</value>
+      <webElementGuid>4bc0c278-f4f4-475d-b626-08a5078d5679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recipe_tour_1&quot;)/div[@class=&quot;relative [&amp;>button]:text-grey900 [&amp;>button]:rounded-[4px] [&amp;>button]:pl-4 [&amp;>button]:h-[56px] [&amp;>button]:py-3 [&amp;>button]:pr-12 [&amp;>button>span]:text-base [&amp;>ul]:!shadow-[0_4px_30px_0px_rgba(0,0,0,0.2)]&quot;]/button[@class=&quot;border-[#d6d6d6]  w-full text-left border rounded-[4px] pt-[15px] pb-[12px] pl-[20px] pr-[40px] text-brandBlack text-[14px] leading-normal relative&quot;]/span[@class=&quot;line-clamp-1&quot;]</value>
+      <webElementGuid>2545c63c-9405-4a11-8b5f-d3777d2584a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='recipe_tour_1']/div/button/span</value>
+      <webElementGuid>1bd808c1-0c76-42f9-b36f-790372b3b374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::span[1]</value>
+      <webElementGuid>438f7a31-e772-4653-adad-8889c75b2a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page Main Heading'])[1]/following::span[1]</value>
+      <webElementGuid>40dccaec-9a4e-48bf-8eed-f1f9d73f3e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alphabetical: A-Z'])[1]/preceding::span[3]</value>
+      <webElementGuid>8b7cbbab-881c-40f4-9062-fcb29ae18ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alphabetical: Z-A'])[1]/preceding::span[3]</value>
+      <webElementGuid>d7afa03a-ba31-4d35-ba06-383e0c20c95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Price: Low to High']/parent::*</value>
+      <webElementGuid>f8188e40-da33-4a62-870a-74daadfe2a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>ca227472-a232-4583-9b4e-c18ade77c37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Price: Low to High' or . = 'Price: Low to High')]</value>
+      <webElementGuid>99a92805-aab7-4e21-83ac-89d724ebf711</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

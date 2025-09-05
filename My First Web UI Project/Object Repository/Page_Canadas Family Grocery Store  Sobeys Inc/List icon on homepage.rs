@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List icon on homepage</name>
+   <tag></tag>
+   <elementGuidId>adb0d4b4-1896-4b5e-9b87-0c826207d27d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage_list_desktop']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#manage_list_desktop span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>66b02fad-9892-4f99-a68b-8b42f12eb2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-list max-w-full w-auto mobScene text-brandWhite lg:text-brandBlack text-[24px] ml-[6px] cursor-pointer</value>
+      <webElementGuid>a73c1e14-f284-47eb-80f6-28433eded130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>36449163-145b-4f20-95f5-2c8c2a57c172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage_list_desktop&quot;)/span[@class=&quot;user-invoice-icon relative inline-block&quot;]/span[@class=&quot;icon-list max-w-full w-auto mobScene text-brandWhite lg:text-brandBlack text-[24px] ml-[6px] cursor-pointer&quot;]</value>
+      <webElementGuid>81e0a56c-c015-4386-9c5a-d64766ada337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage_list_desktop']/span/span</value>
+      <webElementGuid>bce923a2-e198-402a-9dc2-06b8313c11a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>5c6b8426-8a53-4a90-a08d-52133685044e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

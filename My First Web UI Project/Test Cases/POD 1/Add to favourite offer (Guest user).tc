@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add to favourite offer (Guest user)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aba0fe21-0f2d-4e83-a2e7-cc3bf96502d6</testCaseGuid>
+</TestCaseEntity>

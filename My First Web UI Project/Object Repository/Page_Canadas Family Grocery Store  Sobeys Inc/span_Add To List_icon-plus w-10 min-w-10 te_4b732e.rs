@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add To List_icon-plus w-10 min-w-10 te_4b732e</name>
+   <tag></tag>
+   <elementGuidId>7b96cc8c-3354-4805-af4d-fdbcd48925f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add_to_cart_product']/div/button/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.false > .font-normal >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>01a35e72-b9d3-46ad-aede-4cae4009d507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-plus w-10 min-w-10 text-white relative right-[7px]</value>
+      <webElementGuid>17e96b4c-c2f8-40e3-9e6e-149a902d7f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b3dc5afc-512d-4ed8-9b5b-6b66cf58fcc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[@class=&quot;mx-auto px-6 2md:px-12 max-w-[1536px] !pl-6 !pr-0 2md:!pl-12 lg:!px-12 overflow-hidden min-h-[280px]&quot;]/div[@class=&quot;mb-[0] min-h-[270px]&quot;]/div[@class=&quot;flex flex-wrap -mx-2 min-h-[250px]&quot;]/div[@class=&quot;w-full sm:w-full lg:w-9/12 xl:w-10/12 px-2&quot;]/div[1]/section[@class=&quot;embla__wrapper mx-auto w-full max-w-full productlistSlider AllProducts&quot;]/div[@class=&quot;embla__row&quot;]/div[@class=&quot;embla__viewport pt-[2px] !pb-2 relative&quot;]/div[@class=&quot;embla__container&quot;]/div[@class=&quot;embla__slide items-stretch tab embla__slide--active&quot;]/div[@id=&quot;ObjectID-undefined OfferType-undefined&quot;]/div[@class=&quot;rounded-xl relative overflow-hidden shadow-[0_0_4px_0_rgba(0,0,0,0.25)] h-full&quot;]/div[@class=&quot;relative h-[192px] pointer-events-none&quot;]/div[@class=&quot;relative px-4 py-[22px] h-[160px] top-8&quot;]/div[@class=&quot;absolute pt-3 top-0 bottom-0 right-0 left-0 px-2 items-end flex gap-2 flex-col justify-between h-full z-[1]&quot;]/div[@id=&quot;add_to_cart_product&quot;]/div[@class=&quot;false false false justify-start p-0 flex items-center w-[40px] h-[40px] [&amp;.addListBtn]:w-[130px] [&amp;.fullView]:w-[130px] [&amp;.fullViewBtn]:w-[130px] overflow-hidden hover:w-[130px] focus-within:w-[130px] focus-within:outline focus-within:outline-2 focus-within:outline-brandSecondary transition-all duration-700 bg-brandSecondary rounded-full&quot;]/button[@class=&quot;font-normal relative z-[1] border-[1px] text-center before:content-[''] before:absolute before:inset-0 before:w-[150%] before:h-full before:transform before:translate-x-[-120%] before:skew-x-[-35deg] before:origin-[0_0] before:transition-transform before:duration-[1s] before:ease-[cubic-bezier(0.07,0.51,0.12,1)] before:z-[-1] hover:before:translate-x-0 focus:before:translate-x-0 bg-brandSecondary before:bg-white border-brandSecondary hover:border-brandSecondary focus:border-brandSecondary hover:bg-brandSecondary focus:bg-brandSecondary hover:text-brandSecondary focus:text-brandSecondary text-base py-2 rounded-full false overflow-visible add-animated-btn [&amp;.fullViewBtn]:translate-x-[-15px] addText text-brandWhite cursor-pointer flex items-center min-h-10 gap-1 whitespace-nowrap transition-all duration-700 h-full justify-start px-0 [&amp;:before]:hidden hover:translate-x-[-35px] focus-within:translate-x-[-35px]&quot;]/span[@class=&quot;icon-plus w-10 min-w-10 text-white relative right-[7px]&quot;]</value>
+      <webElementGuid>7aca0860-e427-43d3-ba75-1a2d76ed863d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add_to_cart_product']/div/button/span[3]</value>
+      <webElementGuid>c2704593-9d96-4058-b0e1-7f18d56bb2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[3]</value>
+      <webElementGuid>54fe5291-5497-4806-b948-724cfe7d8e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>b77feda3-9545-4d45-92f2-9c4746402e11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

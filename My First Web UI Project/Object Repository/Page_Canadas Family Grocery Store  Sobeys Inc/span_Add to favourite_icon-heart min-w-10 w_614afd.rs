@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to favourite_icon-heart min-w-10 w_614afd</name>
+   <tag></tag>
+   <elementGuidId>cf5e6f8f-395b-42e5-be91-7b10d54298ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='favorite_button_999855_EA_0320']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-heart.min-w-10.w-10.h-10.bg-brandWhite.text-xl.flex.items-center.justify-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#favorite_button_999855_EA_0320</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ccfd958-3212-4cdc-8a98-69f6392c9aca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-heart min-w-10 w-10 h-10 bg-brandWhite text-xl flex items-center justify-center</value>
+      <webElementGuid>ff4a820b-cc02-4cd8-a5c6-aa53ac3402bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;favorite_button_999855_EA_0320&quot;)/span[@class=&quot;icon-heart min-w-10 w-10 h-10 bg-brandWhite text-xl flex items-center justify-center&quot;]</value>
+      <webElementGuid>0ea9c5e8-454a-4686-9b96-e7b461f9b388</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='favorite_button_999855_EA_0320']/span</value>
+      <webElementGuid>46f52aa9-531e-4897-9170-a5ad8085491c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>97566a2e-7590-4596-8dcd-f0faee231fb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

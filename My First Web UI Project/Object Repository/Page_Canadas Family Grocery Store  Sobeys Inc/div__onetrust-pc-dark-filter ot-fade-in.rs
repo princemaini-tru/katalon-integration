@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__onetrust-pc-dark-filter ot-fade-in</name>
+   <tag></tag>
+   <elementGuidId>413db3f1-0fc0-46d5-a21d-5f48fe668366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onetrust-consent-sdk']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.onetrust-pc-dark-filter.ot-fade-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.onetrust-pc-dark-filter</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59a20aac-0f3f-4bb3-b5b8-5608c20d2413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>onetrust-pc-dark-filter ot-fade-in</value>
+      <webElementGuid>96348863-44c0-46d3-b225-16738f9aac37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onetrust-consent-sdk&quot;)/div[@class=&quot;onetrust-pc-dark-filter ot-fade-in&quot;]</value>
+      <webElementGuid>8e48e053-b256-411e-89ee-b2ea4a5b3a34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onetrust-consent-sdk']/div</value>
+      <webElementGuid>317a38a5-a7c1-433a-a1dc-20a9bc85734a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div</value>
+      <webElementGuid>5fdaa1b4-8c32-4e10-be89-01ef2f4f18cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

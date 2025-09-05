@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account_icon-list max-w-full w-auto mo_32d592</name>
+   <tag></tag>
+   <elementGuidId>d9d1044a-9a91-4c2e-86b0-b47273c3bbab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='manage_list_desktop']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#manage_list_desktop span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b84d0d59-df0f-427b-84b9-e19325409982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-list max-w-full w-auto mobScene text-brandWhite lg:text-brandBlack text-[24px] ml-[6px] cursor-pointer</value>
+      <webElementGuid>730e4563-3068-451e-835b-369eeeca75b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>54b2d929-c311-49cd-8592-daafeee6269a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;manage_list_desktop&quot;)/span[@class=&quot;user-invoice-icon relative inline-block&quot;]/span[@class=&quot;icon-list max-w-full w-auto mobScene text-brandWhite lg:text-brandBlack text-[24px] ml-[6px] cursor-pointer&quot;]</value>
+      <webElementGuid>9e0181f6-cef2-43bf-9541-31d4e4e10214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='manage_list_desktop']/span/span</value>
+      <webElementGuid>399e3514-2667-42a2-92a8-09f116c4b138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>0599d8cf-e2e8-4726-9a76-4973e1f9748d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

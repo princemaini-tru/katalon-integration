@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Recipes filter on search result page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fc1fc9f-af22-406d-9eda-28f8313e606d</testCaseGuid>
+</TestCaseEntity>

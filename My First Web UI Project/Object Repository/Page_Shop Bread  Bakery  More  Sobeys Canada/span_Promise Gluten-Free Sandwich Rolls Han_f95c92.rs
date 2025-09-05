@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Promise Gluten-Free Sandwich Rolls Han_f95c92</name>
+   <tag></tag>
+   <elementGuidId>07c2aa05-b312-4781-a9cd-c2e3f67d88c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='start-of-content']/div/div[2]/div/main/div[2]/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox[name=&quot;15 / page&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d89956f6-9697-456d-9ff8-f384ed540c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-1</value>
+      <webElementGuid>411836cc-9d10-4598-ab92-497f9fdece16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15 / Page</value>
+      <webElementGuid>e74ca117-d499-4d9b-8ba5-48c823b31640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start-of-content&quot;)/div[1]/div[@class=&quot;mx-auto px-6 2md:px-12 max-w-[1536px] main-wrapper lg:mt-6&quot;]/div[@class=&quot;flex lg:gap-[24px]&quot;]/main[@class=&quot;pb-8 md:pb-6 lg:pb-12 w-full lg:w-[calc(100%-250px)] xl:w-[calc(100%-220px)]&quot;]/div[@class=&quot;flex flex-col lg:flex-row gap-4 lg:gap-6 justify-center items-center w-[100%] mt-6&quot;]/div[@class=&quot;relative tab relative  [&amp;_button]:rounded-[4px] [&amp;_button]:text-brandBlack [&amp;_span:last-child]:right-[14px] [&amp;_button]:py-[4.5px] [&amp;_button]:pl-[8px] [&amp;_button]:pr-[36px] [&amp;_li]:py-[4.5px] [&amp;_li]:text-[14px]&quot;]/button[@class=&quot;border-[#d6d6d6]  w-full text-left border rounded-[4px] pt-[15px] pb-[12px] pl-[20px] pr-[40px] text-brandBlack text-[14px] leading-normal relative&quot;]/span[@class=&quot;line-clamp-1&quot;]</value>
+      <webElementGuid>73dc6955-a691-4869-9d18-cd8fca32d78c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='start-of-content']/div/div[2]/div/main/div[2]/div[2]/button/span</value>
+      <webElementGuid>f880644d-b876-4f4d-8f65-e07cfdb0889f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promise Gluten-Free Sandwich Rolls Han...'])[1]/following::span[3]</value>
+      <webElementGuid>059730d1-91a7-4203-b17c-c6ba9e16bdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$9.99'])[1]/following::span[4]</value>
+      <webElementGuid>cc2d4ae3-3ff6-4a31-bfdb-4eb31c1b4933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product availability may vary. See in-store for accurate product availability.'])[1]/preceding::span[3]</value>
+      <webElementGuid>e3b47a56-2756-4b3b-b3a0-17e873439578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/preceding::span[3]</value>
+      <webElementGuid>9212dda0-2544-4372-9ab0-51cb55f03429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15 / Page']/parent::*</value>
+      <webElementGuid>d76d4cae-441d-429d-9fe5-bc3961d361c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button/span</value>
+      <webElementGuid>6f5ffd05-831c-4571-b1bc-a3fd0c1b0e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '15 / Page' or . = '15 / Page')]</value>
+      <webElementGuid>713a32a1-98a9-4b65-80ff-33628643cf78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add to favourite_icon-heart flex-shrin_ff87f2</name>
+   <tag></tag>
+   <elementGuidId>6785598f-c68d-4162-9f26-222d16709752</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#favorite_button_999550_EA_7383 > span.icon-heart.flex-shrink-0.min-w-10.w-10.h-10.bg-brandWhite.text-xl.flex.items-center.justify-center.relative.overflow-hidden</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='favorite_button_999550_EA_7383']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#favorite_button_999550_EA_7383</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98982cb3-727e-4af5-837e-374116d66ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-heart flex-shrink-0 min-w-10 w-10 h-10 bg-brandWhite text-xl flex items-center justify-center relative overflow-hidden</value>
+      <webElementGuid>20a3dbe3-f8ef-4da5-85de-5d0f27c5cf0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;favorite_button_999550_EA_7383&quot;)/span[@class=&quot;icon-heart flex-shrink-0 min-w-10 w-10 h-10 bg-brandWhite text-xl flex items-center justify-center relative overflow-hidden&quot;]</value>
+      <webElementGuid>a52d4df9-e6aa-4888-b1b5-7073086b0427</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='favorite_button_999550_EA_7383']/span</value>
+      <webElementGuid>2c8e321e-7e25-451c-91e3-8b6d4266b6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span</value>
+      <webElementGuid>fcc6962b-7358-4d4b-adde-5016564366a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

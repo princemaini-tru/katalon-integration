@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>List all operation (Crud)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7923fd1-46d7-4024-a89d-2e6747ed4672</testCaseGuid>
+</TestCaseEntity>
